@@ -1,0 +1,33 @@
+.link {
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.link-container:hover,
+.link-container:active {
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.27);
+  border-radius: px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(3.3px);
+  -webkit-backdrop-filter: blur(3.3px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.link-container {
+  display: flex;
+  align-items: center;
+  padding: auto;
+  border-bottom: solid 1px #ff9f9f;
+}
+
+.my-fav {
+  color: #ff9f9f;
+  padding: 10px;
+}
+
+.my-fav-side-panel {
+  border-right: 1px solid #ffffff;
+
+}

@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  background-image: url('C:\Users\Amirah Nasihah\OneDrive\nasihah.io\coding\scrimba\intro-to-javascript\react-practicum\news-search-app\public\bgimage.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  width: 100%;
+  height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

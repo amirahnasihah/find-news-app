@@ -1,0 +1,30 @@
+.main-container {
+  border-right: 2px solid blueviolet;
+  background-color: #fff;
+
+}
+
+.header-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.content-container {
+  background-image: url('C:\Users\Amirah Nasihah\OneDrive\nasihah.io\coding\scrimba\intro-to-javascript\react-practicum\news-search-app\public\bgimage.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+
+.left-panel-container {
+  height: 100%;
+
+}
+
+.result-container {
+  height: 100%;
+}
