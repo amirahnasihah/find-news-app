@@ -23,7 +23,7 @@ function Header({ keyWord, handleSetKeyword }) {
   }, []);
 
   return (
-    <Grid container justifyContent="center">
+    <Grid container className="header-el">
       <Typography
         variant="h6"
         noWrap
@@ -48,6 +48,7 @@ function Header({ keyWord, handleSetKeyword }) {
           variant="filled"
           size="small"
           className="search-el"
+          style={{ margin: "5px" }}
           value={keyWord || ""}
           onChange={(e) => handleSetKeyword(e)}
         />
