@@ -31,7 +31,7 @@
 }
 
 .login-main-container {
-  background-image: url('C:\Users\Amirah Nasihah\OneDrive\nasihah.io\coding\scrimba\intro-to-javascript\react-practicum\news-search-app\public\login-img.png');
+  background-image: url('/public/login-img.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

@@ -8,7 +8,7 @@ body {
 }
 
 html {
-  background-image: url('C:\Users\Amirah Nasihah\OneDrive\nasihah.io\coding\scrimba\intro-to-javascript\react-practicum\news-search-app\public\bgimage.png');
+  background-image: url('../public/bgimage.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% 100%;
